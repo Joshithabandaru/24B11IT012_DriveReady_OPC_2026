@@ -8,5 +8,7 @@ Aditya University. Case study: Sweet Crumbs Home Bakery.
 | [Day-1](Day-1) | How LLMs work and your first API call |
 | [Day-2](Day-2) | Prompts, memory and the Python agents need |
 | [Day-3](Day-3) | Your first agent: LangChain and testing |
+| [Day-4](Day-4) | Tools, structured output and Google Sheets |
+| [Day-5](Day-5) | Memory and RAG |
 
 API key: set `GROQ_API_KEY` as an environment variable. Never commit it.
